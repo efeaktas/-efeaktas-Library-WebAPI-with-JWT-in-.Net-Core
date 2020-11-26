@@ -1,0 +1,73 @@
+﻿
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section class="content">
+
+
+    <section class="content-header">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-md-4"></div>
+                <div class="col-md-3">
+                    <h1>Yazar Oluştur</h1>
+                </div>
+                <div class="col-md-5">
+                    <ol class="breadcrumb float-sm-right">
+                        <li class="breadcrumb-item"><a href="#">Yazar Yönetimi</a></li>
+                        <li class="breadcrumb-item active">Yazar Oluştur</li>
+                    </ol>
+                </div>
+            </div>
+        </div><!-- /.container-fluid -->
+    </section>
+
+    <!-- Main content -->
+    <section class="content">
+        <div class="row">
+            <div class="col-md-2"></div>
+            <div class="col-md-8">
+                <div class="card card-primary">
+                    <div class="card-header">
+                        <h3 class="card-title">Bilgiler</h3>
+
+                    </div>
+                    <form id="createAuthorForm" method="post" enctype="multipart/form-data">
+                        <div class="card-body">
+                            <div class="form-group">
+                                <label for="inputName">Yazar İsmi</label>
+                                <input type="text" id="txtAuthorName" class="form-control" required>
+                            </div>
+
+                        </div>
+                        <div class="col-md-2">
+
+                            <!-- /.card -->
+                        </div>
+                        <div class="row mb-4">
+                            <div class="col-1"></div>
+                            <div class="col-10">
+                                <a href="/Author/List" class="btn btn-secondary" style="background-color:red !important;border-color:red !important;">İptal Et</a>
+                                <input type="submit" value="Oluştur" class="btn btn-success float-right">
+                            </div>
+                            <div class="col-1"></div>
+                        </div>
+                    </form>
+
+                    <!-- /.card-body -->
+                </div>
+                <!-- /.card -->
+            </div>
+
+        </div>
+
+    </section>
+    <!-- /.content -->
+
+</section>
+@section JS{
+
+    <script src="~/js/CustomScripts/Author/createAuthor.js"></script>
+}

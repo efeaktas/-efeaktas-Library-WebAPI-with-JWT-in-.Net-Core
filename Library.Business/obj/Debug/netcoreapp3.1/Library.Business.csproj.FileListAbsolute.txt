@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\Projeler\Library\Library.Business\bin\Debug\netcoreapp3.1\Library.Business.deps.json
+C:\Users\HP\Desktop\Projeler\Library\Library.Business\bin\Debug\netcoreapp3.1\Library.Business.dll
+C:\Users\HP\Desktop\Projeler\Library\Library.Business\bin\Debug\netcoreapp3.1\Library.Business.pdb
+C:\Users\HP\Desktop\Projeler\Library\Library.Business\bin\Debug\netcoreapp3.1\Library.DataAccess.dll
+C:\Users\HP\Desktop\Projeler\Library\Library.Business\bin\Debug\netcoreapp3.1\Library.DataAccess.pdb
+C:\Users\HP\Desktop\Projeler\Library\Library.Business\obj\Debug\netcoreapp3.1\Library.Business.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Projeler\Library\Library.Business\obj\Debug\netcoreapp3.1\Library.Business.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Projeler\Library\Library.Business\obj\Debug\netcoreapp3.1\Library.Business.AssemblyInfo.cs
+C:\Users\HP\Desktop\Projeler\Library\Library.Business\obj\Debug\netcoreapp3.1\Library.Business.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Projeler\Library\Library.Business\obj\Debug\netcoreapp3.1\Library.Business.csproj.CopyComplete
+C:\Users\HP\Desktop\Projeler\Library\Library.Business\obj\Debug\netcoreapp3.1\Library.Business.dll
+C:\Users\HP\Desktop\Projeler\Library\Library.Business\obj\Debug\netcoreapp3.1\Library.Business.pdb

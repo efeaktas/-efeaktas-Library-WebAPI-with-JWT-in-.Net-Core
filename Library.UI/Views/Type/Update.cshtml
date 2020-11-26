@@ -1,0 +1,81 @@
+﻿
+@{
+    ViewData["Title"] = "Update";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using Library.DTO.Type
+@model ListTypeResponse
+<section class="content">
+
+
+    <section class="content-header">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-md-4"></div>
+                <div class="col-md-3">
+                    <h1>Tür Düzenle</h1>
+                </div>
+                <div class="col-md-5">
+                    <ol class="breadcrumb float-sm-right">
+                        <li class="breadcrumb-item"><a href="#">Tür Yönetimi</a></li>
+                        <li class="breadcrumb-item active">Tür Düzenle</li>
+                    </ol>
+                </div>
+            </div>
+        </div><!-- /.container-fluid -->
+    </section>
+
+    <!-- Main content -->
+    <section class="content">
+        <div class="row">
+            <div class="col-md-2"></div>
+            <div class="col-md-8">
+                <div class="card card-primary">
+                    <div class="card-header">
+                        <h3 class="card-title">Bilgiler</h3>
+
+                    </div>
+                    <form id="typeForm" method="post" enctype="multipart/form-data">
+                        <div class="card-body">
+                            <div class="form-group">
+                                <label for="inputName"></label>
+                                <input type="text" value="@Model.Name" id="txtType" class="form-control" required>
+                            </div>
+
+                        </div>
+                        <div class="col-md-2">
+
+                            <!-- /.card -->
+                        </div>
+                        <div class="row mb-4">
+
+                            <div class="col-12">
+                                <a href="/Type/List" class="btn btn-secondary ml-3" style="background-color:red !important;border-color:red !important;">İptal Et</a>
+
+                                <input type="submit" id="btnUpdate" value="Düzenle" data-id="@Model.Id" class="btn btn-success float-right mr-3">
+
+                                <button type="button" style="width: 50px; height: 38px;" id="btnDelete" data-id="@Model.Id" class="btn btn-danger float-right mr-2">Sil</button>
+
+                            </div>
+
+                        </div>
+                    </form>
+
+                    <!-- /.card-body -->
+                </div>
+                <!-- /.card -->
+            </div>
+
+        </div>
+
+    </section>
+    <!-- /.content -->
+
+</section>
+@section JS{
+    <script src="~/js/CustomScripts/Type/updateType.js"></script>
+    <script src="~/js/CustomScripts/Type/deleteType.js"></script>
+}
+
+

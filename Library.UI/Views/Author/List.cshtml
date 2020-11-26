@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewData["Title"] = "List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card">
+    <div class="card-header">
+        <h3 class="card-title">Yazar Tablosu</h3>
+    </div>
+    <!-- /.card-header -->
+    <div class="card-body">
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Yazar İsmi</th>
+                    <th>Düzenle</th>
+                </tr>
+            </thead>
+            <tbody id="bodyAuthor">
+
+
+            </tbody>
+        </table>
+    </div>
+    <!-- /.card-body -->
+    <div class="card-footer clearfix">
+
+    </div>
+</div>
+@section JS{ 
+    <script src="~/js/CustomScripts/Author/listAuthor.js"></script>
+}

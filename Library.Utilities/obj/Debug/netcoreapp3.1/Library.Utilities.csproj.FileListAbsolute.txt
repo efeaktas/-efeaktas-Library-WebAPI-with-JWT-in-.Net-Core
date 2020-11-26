@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\Projeler\Library\Library.Utilities\bin\Debug\netcoreapp3.1\Library.Utilities.deps.json
+C:\Users\HP\Desktop\Projeler\Library\Library.Utilities\bin\Debug\netcoreapp3.1\Library.Utilities.dll
+C:\Users\HP\Desktop\Projeler\Library\Library.Utilities\bin\Debug\netcoreapp3.1\Library.Utilities.pdb
+C:\Users\HP\Desktop\Projeler\Library\Library.Utilities\obj\Debug\netcoreapp3.1\Library.Utilities.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Projeler\Library\Library.Utilities\obj\Debug\netcoreapp3.1\Library.Utilities.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Projeler\Library\Library.Utilities\obj\Debug\netcoreapp3.1\Library.Utilities.AssemblyInfo.cs
+C:\Users\HP\Desktop\Projeler\Library\Library.Utilities\obj\Debug\netcoreapp3.1\Library.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Projeler\Library\Library.Utilities\obj\Debug\netcoreapp3.1\Library.Utilities.dll
+C:\Users\HP\Desktop\Projeler\Library\Library.Utilities\obj\Debug\netcoreapp3.1\Library.Utilities.pdb

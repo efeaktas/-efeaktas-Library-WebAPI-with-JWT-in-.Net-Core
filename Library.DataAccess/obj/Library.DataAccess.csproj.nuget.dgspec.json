@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\Projeler\\Library\\Library.DataAccess\\Library.DataAccess.csproj": {}
+    "C:\\Users\\HP\\Desktop\\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\\Library.DataAccess\\Library.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\Projeler\\Library\\Library.DataAccess\\Library.DataAccess.csproj": {
+    "C:\\Users\\HP\\Desktop\\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\\Library.DataAccess\\Library.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Projeler\\Library\\Library.DataAccess\\Library.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\\Library.DataAccess\\Library.DataAccess.csproj",
         "projectName": "Library.DataAccess",
-        "projectPath": "C:\\Users\\HP\\Desktop\\Projeler\\Library\\Library.DataAccess\\Library.DataAccess.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\\Library.DataAccess\\Library.DataAccess.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\Projeler\\Library\\Library.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\\Library.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

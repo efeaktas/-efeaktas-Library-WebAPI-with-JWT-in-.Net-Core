@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M/GlnYnNgLswW9kZTdcHsHGZwpAJVKyn+KKLnQ6R+INPx+QncR5mAXxL4xvyPwocST/eUBMvJUrOJWeIIK7KRA==",
+  "dgSpecHash": "uKNQ8Jt9aZ5nCdC7gp4/OJKeAGdZ/sEkqOSW1pqn7SmjJGOdYw0JP8PzF6BnnOCjRAdjdYOESGKmUDcZ15V3tA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\Projeler\\Library\\Library.UI\\Library.WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\\Library.UI\\Library.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.10\\microsoft.aspnetcore.authentication.jwtbearer.3.1.10.nupkg.sha512",

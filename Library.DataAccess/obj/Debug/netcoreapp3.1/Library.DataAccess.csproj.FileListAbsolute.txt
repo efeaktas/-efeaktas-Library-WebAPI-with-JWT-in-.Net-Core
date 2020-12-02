@@ -21,3 +21,15 @@ C:\Users\HP\Desktop\Projeler\Library\Library.DataAccess\obj\Debug\netcoreapp3.1\
 C:\Users\HP\Desktop\Projeler\Library\Library.DataAccess\obj\Debug\netcoreapp3.1\Library.DataAccess.dll
 C:\Users\HP\Desktop\Projeler\Library\Library.DataAccess\obj\Debug\netcoreapp3.1\Library.DataAccess.pdb
 C:\Users\HP\Desktop\Projeler\Library\Library.DataAccess\obj\Debug\netcoreapp3.1\Library.DataAccess.genruntimeconfig.cache
+C:\Users\HP\Desktop\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\Library.DataAccess\bin\Debug\netcoreapp3.1\Library.DataAccess.deps.json
+C:\Users\HP\Desktop\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\Library.DataAccess\bin\Debug\netcoreapp3.1\Library.DataAccess.runtimeconfig.json
+C:\Users\HP\Desktop\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\Library.DataAccess\bin\Debug\netcoreapp3.1\Library.DataAccess.runtimeconfig.dev.json
+C:\Users\HP\Desktop\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\Library.DataAccess\bin\Debug\netcoreapp3.1\Library.DataAccess.dll
+C:\Users\HP\Desktop\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\Library.DataAccess\bin\Debug\netcoreapp3.1\Library.DataAccess.pdb
+C:\Users\HP\Desktop\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\Library.DataAccess\obj\Debug\netcoreapp3.1\Library.DataAccess.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\Library.DataAccess\obj\Debug\netcoreapp3.1\Library.DataAccess.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\Library.DataAccess\obj\Debug\netcoreapp3.1\Library.DataAccess.AssemblyInfo.cs
+C:\Users\HP\Desktop\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\Library.DataAccess\obj\Debug\netcoreapp3.1\Library.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\Library.DataAccess\obj\Debug\netcoreapp3.1\Library.DataAccess.dll
+C:\Users\HP\Desktop\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\Library.DataAccess\obj\Debug\netcoreapp3.1\Library.DataAccess.pdb
+C:\Users\HP\Desktop\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\Library.DataAccess\obj\Debug\netcoreapp3.1\Library.DataAccess.genruntimeconfig.cache

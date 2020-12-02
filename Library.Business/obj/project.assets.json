@@ -5836,11 +5836,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\Projeler\\Library\\Library.Business\\Library.Business.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\\Library.Business\\Library.Business.csproj",
       "projectName": "Library.Business",
-      "projectPath": "C:\\Users\\HP\\Desktop\\Projeler\\Library\\Library.Business\\Library.Business.csproj",
+      "projectPath": "C:\\Users\\HP\\Desktop\\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\\Library.Business\\Library.Business.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\Projeler\\Library\\Library.Business\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\\Library.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -5861,8 +5861,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\HP\\Desktop\\Projeler\\Library\\Library.DataAccess\\Library.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\Projeler\\Library\\Library.DataAccess\\Library.DataAccess.csproj"
+            "C:\\Users\\HP\\Desktop\\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\\Library.DataAccess\\Library.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\HP\\Desktop\\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\\Library.DataAccess\\Library.DataAccess.csproj"
             }
           }
         }

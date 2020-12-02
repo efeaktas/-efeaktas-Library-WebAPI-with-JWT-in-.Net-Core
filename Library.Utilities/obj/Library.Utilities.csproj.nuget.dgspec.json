@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\Projeler\\Library\\Library.Utilities\\Library.Utilities.csproj": {}
+    "C:\\Users\\HP\\Desktop\\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\\Library.Utilities\\Library.Utilities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\Projeler\\Library\\Library.Utilities\\Library.Utilities.csproj": {
+    "C:\\Users\\HP\\Desktop\\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\\Library.Utilities\\Library.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Projeler\\Library\\Library.Utilities\\Library.Utilities.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\\Library.Utilities\\Library.Utilities.csproj",
         "projectName": "Library.Utilities",
-        "projectPath": "C:\\Users\\HP\\Desktop\\Projeler\\Library\\Library.Utilities\\Library.Utilities.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\\Library.Utilities\\Library.Utilities.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\Projeler\\Library\\Library.Utilities\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\\Library.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

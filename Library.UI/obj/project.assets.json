@@ -8795,11 +8795,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\Projeler\\Library\\Library.UI\\Library.WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\\Library.UI\\Library.WebAPI.csproj",
       "projectName": "Library.WebAPI",
-      "projectPath": "C:\\Users\\HP\\Desktop\\Projeler\\Library\\Library.UI\\Library.WebAPI.csproj",
+      "projectPath": "C:\\Users\\HP\\Desktop\\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\\Library.UI\\Library.WebAPI.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\Projeler\\Library\\Library.UI\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\\Library.UI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -8820,17 +8820,17 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\HP\\Desktop\\Projeler\\Library\\Library.Business\\Library.Business.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\Projeler\\Library\\Library.Business\\Library.Business.csproj"
+            "C:\\Users\\HP\\Desktop\\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\\Library.Business\\Library.Business.csproj": {
+              "projectPath": "C:\\Users\\HP\\Desktop\\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\\Library.Business\\Library.Business.csproj"
             },
-            "C:\\Users\\HP\\Desktop\\Projeler\\Library\\Library.DataAccess\\Library.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\Projeler\\Library\\Library.DataAccess\\Library.DataAccess.csproj"
+            "C:\\Users\\HP\\Desktop\\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\\Library.DataAccess\\Library.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\HP\\Desktop\\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\\Library.DataAccess\\Library.DataAccess.csproj"
             },
-            "C:\\Users\\HP\\Desktop\\Projeler\\Library\\Library.DTO\\Library.DTO.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\Projeler\\Library\\Library.DTO\\Library.DTO.csproj"
+            "C:\\Users\\HP\\Desktop\\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\\Library.DTO\\Library.DTO.csproj": {
+              "projectPath": "C:\\Users\\HP\\Desktop\\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\\Library.DTO\\Library.DTO.csproj"
             },
-            "C:\\Users\\HP\\Desktop\\Projeler\\Library\\Library.Utilities\\Library.Utilities.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\Projeler\\Library\\Library.Utilities\\Library.Utilities.csproj"
+            "C:\\Users\\HP\\Desktop\\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\\Library.Utilities\\Library.Utilities.csproj": {
+              "projectPath": "C:\\Users\\HP\\Desktop\\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\\Library.Utilities\\Library.Utilities.csproj"
             }
           }
         }

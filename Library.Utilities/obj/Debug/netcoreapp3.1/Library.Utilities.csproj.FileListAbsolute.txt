@@ -7,3 +7,12 @@ C:\Users\HP\Desktop\Projeler\Library\Library.Utilities\obj\Debug\netcoreapp3.1\L
 C:\Users\HP\Desktop\Projeler\Library\Library.Utilities\obj\Debug\netcoreapp3.1\Library.Utilities.csproj.CoreCompileInputs.cache
 C:\Users\HP\Desktop\Projeler\Library\Library.Utilities\obj\Debug\netcoreapp3.1\Library.Utilities.dll
 C:\Users\HP\Desktop\Projeler\Library\Library.Utilities\obj\Debug\netcoreapp3.1\Library.Utilities.pdb
+C:\Users\HP\Desktop\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\Library.Utilities\bin\Debug\netcoreapp3.1\Library.Utilities.deps.json
+C:\Users\HP\Desktop\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\Library.Utilities\bin\Debug\netcoreapp3.1\Library.Utilities.dll
+C:\Users\HP\Desktop\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\Library.Utilities\bin\Debug\netcoreapp3.1\Library.Utilities.pdb
+C:\Users\HP\Desktop\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\Library.Utilities\obj\Debug\netcoreapp3.1\Library.Utilities.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\Library.Utilities\obj\Debug\netcoreapp3.1\Library.Utilities.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\Library.Utilities\obj\Debug\netcoreapp3.1\Library.Utilities.AssemblyInfo.cs
+C:\Users\HP\Desktop\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\Library.Utilities\obj\Debug\netcoreapp3.1\Library.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\Library.Utilities\obj\Debug\netcoreapp3.1\Library.Utilities.dll
+C:\Users\HP\Desktop\-efeaktas-Library-WebAPI-with-JWT-in-.Net-Core\Library.Utilities\obj\Debug\netcoreapp3.1\Library.Utilities.pdb
